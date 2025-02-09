@@ -24,7 +24,7 @@ I'm a **Computer Science student** with a deep passion for **Data Science**, **M
 Feel free to explore my repositories and connect with me!
 
 ## 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/sanila-wijesekara-b70118308)
+- [LinkedIn](https://www.linkedin.com/in/sanila-wijesekara-b70118308)
 - [Email](sanilamethwan@gmail.com)
 - [Instagram](https://www.instagram.com/sanila_wijesekara/)
 
