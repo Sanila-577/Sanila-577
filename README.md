@@ -7,10 +7,6 @@ I'm a **Computer Science student** passionate about **Data Science**, **Machine 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanila-577&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 ## 🔭 Areas of Interest:
 - 🤖 **Machine Learning & Deep Learning**
 - 👁️ **Computer Vision**
@@ -75,7 +71,9 @@ I’m constantly learning new tools and exploring fresh ideas to stay up-to-date
 
 ----
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanila-577&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 
 ## 📫 How to Reach Me:
@@ -84,5 +82,7 @@ I’m constantly learning new tools and exploring fresh ideas to stay up-to-date
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanila_wijesekara/)
 
 ---
+
+
 
 *Feel free to explore my repositories, and let’s connect!* 🚀👨‍💻
