@@ -7,6 +7,10 @@ I'm a **Computer Science student** passionate about **Data Science**, **Machine 
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanila-577&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ## 🔭 Areas of Interest:
 - 🤖 **Machine Learning & Deep Learning**
 - 👁️ **Computer Vision**
@@ -70,6 +74,8 @@ I’m constantly learning new tools and exploring fresh ideas to stay up-to-date
 </p>
 
 ----
+
+
 
 
 ## 📫 How to Reach Me:
