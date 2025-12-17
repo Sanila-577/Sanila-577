@@ -63,12 +63,9 @@ I'm a **Computer Science student** passionate about **Data Science**, **Machine 
 I’m constantly learning new tools and exploring fresh ideas to stay up-to-date with the latest advancements in **AI**, **Data Science**, and **Software Development**. 🚀✨
 
 ---
-## 🔥 Streak  
+## 🔥 Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanila-577&theme=tokyonight&hide_border=true" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats-zeta-lac.vercel.app?user=Sanila-577&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ----
 
 <p align="center">
