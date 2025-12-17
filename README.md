@@ -65,14 +65,12 @@ I’m constantly learning new tools and exploring fresh ideas to stay up-to-date
 ---
 ## 🔥 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-zeta-lac.vercel.app?user=Sanila-577&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-zeta-lac.vercel.app?user=Sanila-577&theme=dark)](https://git.io/streak-stats)
 
 ![Sanila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanila-577&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanila-577)](https://github.com/anuraghazra/github-readme-stats)
-
----
+![Top Langs](https://all-readme-stats.vercel.app/api/top-langs?username=Sanila-577&theme=radical)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanila-577&style=flat-square&color=blue" alt="Profile views" />
