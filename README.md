@@ -67,7 +67,7 @@ I’m constantly learning new tools and exploring fresh ideas to stay up-to-date
 
 [![GitHub Streak](https://github-readme-streak-stats-zeta-lac.vercel.app?user=Sanila-577&theme=dark)](https://git.io/streak-stats)
 
-![Sanila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanila-577&show_icons=true&theme=radical)
+![Sanila's GitHub stats](https://all-readme-stats.vercel.app/api?username=Sanila-577&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://all-readme-stats.vercel.app/api/top-langs?username=Sanila-577&theme=radical)
