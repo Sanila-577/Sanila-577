@@ -46,11 +46,16 @@ I'm a **Computer Science student** passionate about **Data Science**, **Machine 
 
 ### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
 ### **Agentic AI**
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+
+---
+### **AI Platforms**
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
