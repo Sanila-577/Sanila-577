@@ -5,6 +5,8 @@
 ## 👨‍💻 About Me
 I'm a **Computer Science student** passionate about **Data Science**, **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. I thrive on applying emerging technologies to tackle real-world challenges, especially at the intersection of **AI** and **Software Development**. 🌍💡
 
+#### Visit my portfolio - https://sanila-wijesekara.vercel.app/
+
 ---
 
 ## 🔭 Areas of Interest:
